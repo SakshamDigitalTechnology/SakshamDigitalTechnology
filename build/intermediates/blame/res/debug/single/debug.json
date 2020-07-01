@@ -20,12 +20,12 @@
         "source": "/Applications/SakshamDigitalTechnology/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_google.xml"
     },
     {
-        "merged": "/Applications/SakshamDigitalTechnology/app/build/intermediates/res/merged/debug/drawable-v24_kotlin.png.flat",
-        "source": "/Applications/SakshamDigitalTechnology/app/src/main/res/drawable-v24/kotlin.png"
-    },
-    {
         "merged": "/Applications/SakshamDigitalTechnology/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_more.png.flat",
         "source": "/Applications/SakshamDigitalTechnology/app/build/generated/res/pngs/debug/drawable-hdpi/ic_more.png"
+    },
+    {
+        "merged": "/Applications/SakshamDigitalTechnology/app/build/intermediates/res/merged/debug/drawable-v24_kotlin.png.flat",
+        "source": "/Applications/SakshamDigitalTechnology/app/src/main/res/drawable-v24/kotlin.png"
     },
     {
         "merged": "/Applications/SakshamDigitalTechnology/app/build/intermediates/res/merged/debug/drawable_viewpager_tab_selector.xml.flat",
@@ -60,24 +60,24 @@
         "source": "/Applications/SakshamDigitalTechnology/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_more.png"
     },
     {
-        "merged": "/Applications/SakshamDigitalTechnology/app/build/intermediates/res/merged/debug/drawable_google.jpg.flat",
-        "source": "/Applications/SakshamDigitalTechnology/app/src/main/res/drawable/google.jpg"
-    },
-    {
         "merged": "/Applications/SakshamDigitalTechnology/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_iphone.xml.flat",
         "source": "/Applications/SakshamDigitalTechnology/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_iphone.xml"
+    },
+    {
+        "merged": "/Applications/SakshamDigitalTechnology/app/build/intermediates/res/merged/debug/drawable_google.jpg.flat",
+        "source": "/Applications/SakshamDigitalTechnology/app/src/main/res/drawable/google.jpg"
     },
     {
         "merged": "/Applications/SakshamDigitalTechnology/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_facebook.xml.flat",
         "source": "/Applications/SakshamDigitalTechnology/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_facebook.xml"
     },
     {
-        "merged": "/Applications/SakshamDigitalTechnology/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_iphone.png.flat",
-        "source": "/Applications/SakshamDigitalTechnology/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_iphone.png"
-    },
-    {
         "merged": "/Applications/SakshamDigitalTechnology/app/build/intermediates/res/merged/debug/layout_expandable_child.xml.flat",
         "source": "/Applications/SakshamDigitalTechnology/app/src/main/res/layout/expandable_child.xml"
+    },
+    {
+        "merged": "/Applications/SakshamDigitalTechnology/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_iphone.png.flat",
+        "source": "/Applications/SakshamDigitalTechnology/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_iphone.png"
     },
     {
         "merged": "/Applications/SakshamDigitalTechnology/app/build/intermediates/res/merged/debug/layout_activity_web_development_fragment.xml.flat",
@@ -120,20 +120,20 @@
         "source": "/Applications/SakshamDigitalTechnology/app/src/main/res/drawable/seleted.xml"
     },
     {
-        "merged": "/Applications/SakshamDigitalTechnology/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_candplus.png.flat",
-        "source": "/Applications/SakshamDigitalTechnology/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_candplus.png"
-    },
-    {
         "merged": "/Applications/SakshamDigitalTechnology/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_android.png.flat",
         "source": "/Applications/SakshamDigitalTechnology/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_android.png"
     },
     {
-        "merged": "/Applications/SakshamDigitalTechnology/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_core_python.png.flat",
-        "source": "/Applications/SakshamDigitalTechnology/app/build/generated/res/pngs/debug/drawable-hdpi/ic_core_python.png"
+        "merged": "/Applications/SakshamDigitalTechnology/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_candplus.png.flat",
+        "source": "/Applications/SakshamDigitalTechnology/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_candplus.png"
     },
     {
         "merged": "/Applications/SakshamDigitalTechnology/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_twitter.png.flat",
         "source": "/Applications/SakshamDigitalTechnology/app/build/generated/res/pngs/debug/drawable-mdpi/ic_twitter.png"
+    },
+    {
+        "merged": "/Applications/SakshamDigitalTechnology/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_core_python.png.flat",
+        "source": "/Applications/SakshamDigitalTechnology/app/build/generated/res/pngs/debug/drawable-hdpi/ic_core_python.png"
     },
     {
         "merged": "/Applications/SakshamDigitalTechnology/app/build/intermediates/res/merged/debug/drawable_a.png.flat",
@@ -224,12 +224,12 @@
         "source": "/Applications/SakshamDigitalTechnology/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_html_css_javascript.xml"
     },
     {
-        "merged": "/Applications/SakshamDigitalTechnology/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_next.png.flat",
-        "source": "/Applications/SakshamDigitalTechnology/app/build/generated/res/pngs/debug/drawable-ldpi/ic_next.png"
-    },
-    {
         "merged": "/Applications/SakshamDigitalTechnology/app/build/intermediates/res/merged/debug/layout_activity_info_fragment.xml.flat",
         "source": "/Applications/SakshamDigitalTechnology/app/src/main/res/layout/activity_info_fragment.xml"
+    },
+    {
+        "merged": "/Applications/SakshamDigitalTechnology/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_next.png.flat",
+        "source": "/Applications/SakshamDigitalTechnology/app/build/generated/res/pngs/debug/drawable-ldpi/ic_next.png"
     },
     {
         "merged": "/Applications/SakshamDigitalTechnology/app/build/intermediates/res/merged/debug/drawable_logo1.png.flat",
@@ -252,12 +252,12 @@
         "source": "/Applications/SakshamDigitalTechnology/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_core_python.xml"
     },
     {
-        "merged": "/Applications/SakshamDigitalTechnology/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_launcher_background.png.flat",
-        "source": "/Applications/SakshamDigitalTechnology/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_launcher_background.png"
-    },
-    {
         "merged": "/Applications/SakshamDigitalTechnology/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_next.png.flat",
         "source": "/Applications/SakshamDigitalTechnology/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_next.png"
+    },
+    {
+        "merged": "/Applications/SakshamDigitalTechnology/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "/Applications/SakshamDigitalTechnology/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_launcher_background.png"
     },
     {
         "merged": "/Applications/SakshamDigitalTechnology/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_candplus.png.flat",

@@ -17,8 +17,8 @@
 13    <!-- Although the *SdkVersion is captured in gradle build files, this is required for non gradle builds -->
 14    <!-- <uses-sdk android:minSdkVersion="14"/> -->
 15    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
-15-->[com.google.firebase:firebase-database:19.3.0] /Users/aditya/.gradle/caches/transforms-2/files-2.1/633dac3a89145c21df4ce7ae9be1c2ab/jetified-firebase-database-19.3.0/AndroidManifest.xml:25:5-79
-15-->[com.google.firebase:firebase-database:19.3.0] /Users/aditya/.gradle/caches/transforms-2/files-2.1/633dac3a89145c21df4ce7ae9be1c2ab/jetified-firebase-database-19.3.0/AndroidManifest.xml:25:22-76
+15-->[com.google.firebase:firebase-database:19.3.1] /Users/aditya/.gradle/caches/transforms-2/files-2.1/d32677a0851b24340105b169248a4587/jetified-firebase-database-19.3.1/AndroidManifest.xml:25:5-79
+15-->[com.google.firebase:firebase-database:19.3.1] /Users/aditya/.gradle/caches/transforms-2/files-2.1/d32677a0851b24340105b169248a4587/jetified-firebase-database-19.3.1/AndroidManifest.xml:25:22-76
 16    <uses-permission android:name="android.permission.WAKE_LOCK" /> <!-- Required by older versions of Google Play services to create IID tokens -->
 16-->[com.google.android.gms:play-services-measurement-api:17.4.3] /Users/aditya/.gradle/caches/transforms-2/files-2.1/7e726495bd988070ff709b306043b244/jetified-play-services-measurement-api-17.4.3/AndroidManifest.xml:24:5-68
 16-->[com.google.android.gms:play-services-measurement-api:17.4.3] /Users/aditya/.gradle/caches/transforms-2/files-2.1/7e726495bd988070ff709b306043b244/jetified-play-services-measurement-api-17.4.3/AndroidManifest.xml:24:22-65
@@ -186,19 +186,19 @@
 93-->[com.facebook.android:facebook-common:5.15.3] /Users/aditya/.gradle/caches/transforms-2/files-2.1/eaf035a3d07c23df0a85890b640f9d8b/jetified-facebook-common-5.15.3/AndroidManifest.xml:34:19-68
 94
 95        <service
-95-->[com.google.firebase:firebase-database:19.3.0] /Users/aditya/.gradle/caches/transforms-2/files-2.1/633dac3a89145c21df4ce7ae9be1c2ab/jetified-firebase-database-19.3.0/AndroidManifest.xml:29:9-35:19
+95-->[com.google.firebase:firebase-database:19.3.1] /Users/aditya/.gradle/caches/transforms-2/files-2.1/d32677a0851b24340105b169248a4587/jetified-firebase-database-19.3.1/AndroidManifest.xml:29:9-35:19
 96            android:name="com.google.firebase.components.ComponentDiscoveryService"
-96-->[com.google.firebase:firebase-database:19.3.0] /Users/aditya/.gradle/caches/transforms-2/files-2.1/633dac3a89145c21df4ce7ae9be1c2ab/jetified-firebase-database-19.3.0/AndroidManifest.xml:30:13-84
+96-->[com.google.firebase:firebase-database:19.3.1] /Users/aditya/.gradle/caches/transforms-2/files-2.1/d32677a0851b24340105b169248a4587/jetified-firebase-database-19.3.1/AndroidManifest.xml:30:13-84
 97            android:directBootAware="true"
 97-->[com.google.firebase:firebase-common:19.3.0] /Users/aditya/.gradle/caches/transforms-2/files-2.1/29962f6903466fc07401d586a917246b/jetified-firebase-common-19.3.0/AndroidManifest.xml:34:13-43
 98            android:exported="false" >
-98-->[com.google.firebase:firebase-database:19.3.0] /Users/aditya/.gradle/caches/transforms-2/files-2.1/633dac3a89145c21df4ce7ae9be1c2ab/jetified-firebase-database-19.3.0/AndroidManifest.xml:31:13-37
+98-->[com.google.firebase:firebase-database:19.3.1] /Users/aditya/.gradle/caches/transforms-2/files-2.1/d32677a0851b24340105b169248a4587/jetified-firebase-database-19.3.1/AndroidManifest.xml:31:13-37
 99            <meta-data
-99-->[com.google.firebase:firebase-database:19.3.0] /Users/aditya/.gradle/caches/transforms-2/files-2.1/633dac3a89145c21df4ce7ae9be1c2ab/jetified-firebase-database-19.3.0/AndroidManifest.xml:32:13-34:85
+99-->[com.google.firebase:firebase-database:19.3.1] /Users/aditya/.gradle/caches/transforms-2/files-2.1/d32677a0851b24340105b169248a4587/jetified-firebase-database-19.3.1/AndroidManifest.xml:32:13-34:85
 100                android:name="com.google.firebase.components:com.google.firebase.database.DatabaseRegistrar"
-100-->[com.google.firebase:firebase-database:19.3.0] /Users/aditya/.gradle/caches/transforms-2/files-2.1/633dac3a89145c21df4ce7ae9be1c2ab/jetified-firebase-database-19.3.0/AndroidManifest.xml:33:17-109
+100-->[com.google.firebase:firebase-database:19.3.1] /Users/aditya/.gradle/caches/transforms-2/files-2.1/d32677a0851b24340105b169248a4587/jetified-firebase-database-19.3.1/AndroidManifest.xml:33:17-109
 101                android:value="com.google.firebase.components.ComponentRegistrar" />
-101-->[com.google.firebase:firebase-database:19.3.0] /Users/aditya/.gradle/caches/transforms-2/files-2.1/633dac3a89145c21df4ce7ae9be1c2ab/jetified-firebase-database-19.3.0/AndroidManifest.xml:34:17-82
+101-->[com.google.firebase:firebase-database:19.3.1] /Users/aditya/.gradle/caches/transforms-2/files-2.1/d32677a0851b24340105b169248a4587/jetified-firebase-database-19.3.1/AndroidManifest.xml:34:17-82
 102            <meta-data
 102-->[com.google.firebase:firebase-auth:19.3.1] /Users/aditya/.gradle/caches/transforms-2/files-2.1/210e15aaa15326adaa619c4734ab65a6/jetified-firebase-auth-19.3.1/AndroidManifest.xml:36:13-38:85
 103                android:name="com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar"
