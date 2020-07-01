@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "23195516678",
+    "firebase_url": "https://sakshamdigitaltechnology-46127.firebaseio.com",
+    "project_id": "sakshamdigitaltechnology-46127",
+    "storage_bucket": "sakshamdigitaltechnology-46127.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:23195516678:android:e25d5341313630c54aa887",
+        "android_client_info": {
+          "package_name": "technology.digital.saksham"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "23195516678-vdkbfntbi5s6tlhnde9hni41ph1sms0h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "technology.digital.saksham",
+            "certificate_hash": "f30f6383a35214fdf698d9644fee0c3bd5d5bcf0"
+          }
+        },
+        {
+          "client_id": "23195516678-hvt6kn3lglcn6phmun93faknvvf6tga3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2BTZykca849NGFl0nkXUVH-EhEqc0Zt0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "23195516678-hvt6kn3lglcn6phmun93faknvvf6tga3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

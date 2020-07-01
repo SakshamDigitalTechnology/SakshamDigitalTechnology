@@ -1,0 +1,101 @@
+<resources>
+    <string name="app_name">SakshamDigitalTechnology</string>
+
+    <string name="facebook_app_id">1658146920963886</string>
+    <string name="fb_login_protocol_scheme">fb1658146920963886</string>
+
+    <string name="androidwithjava">Android owned by Google, is the worlds most popular mobile platform. It is growing fast every day. With the increase in its growth, learning Android may boost up your career at a very fast pace.</string>
+    <string name="androidwithKotlin">Making android mobile application easily and securely is a fantasy for every developer. There are so many options like Java, React, Kotlin, etc.
+
+Most of the developers use Java to Develop Android Applications. But now a day’s community of Kotlin for android app development is growing rapidly.</string>
+
+
+    <string name="PythonWthMachineLearning">Machine learning is a type of artificial intelligence (AI) that provides computers with the ability to learn without being explicitly programmed. Machine learning focuses on the development of Computer Programs that can change when exposed to new data.</string>
+    <string name="CoreJava">ava is a general purpose very powerful computer programming language. It is concurrent, class-based, and object-oriented designed to have few implementation dependencies. Java was specially designed to have a look and feel of C++ language.</string>
+    <string name="PythonWithDjnago">Python is a general-purpose object-oriented, interpreted, interactive, and high-level programming language. It is created by Guido van Rossum during 1985- 1990. Python is a highly readable language which uses frequently used English keywords. </string>
+
+    <string name="HtmlCssJavaScript">HTML and CSS are actually not technically programming languages they are just page structure and style information. But before moving on to JavaScript and other true languages, you need to know the basics of HTML and CSS.</string>
+    <string name="digitalmarketing">Our Digital Marketing Professional Program provides an overview of the digital marketing landscape to our students. The training from our well-trained experts comprises of Google AdWords, Keyword Targeting, Display Ads, Mobile Ads and more. </string>
+    <string name="PhpWithWebDevelopment">PHP is the first open source server-side scripting language embedded in HTML. It is used to create web pages. PHP is used by more than 20 million websites and over 1 million web servers. It is readily available and is used primarily on Linux Web servers.</string>
+    <string name="CorePython">Python is easy to learn, a very powerful programming language with high-level data structures. It is a simple and effective programming approach to rapid application development and scripting in multiple areas on most platforms.</string>
+    <string name="Candplus">C is the basic building block of any language. It is the only platform to develop the programming techniques for any type of languages.C++ is the general purpose programming language which supports Object Oriented Concepts. Every C application can be upgraded in C++ language using these Object Oriented Concepts. </string>
+    <string name="SEOSMM">Social media marketing (SMM) is a form of Internet marketing that utilizes social networking websites as a marketing tool. ... One of the key components of SMM is social media optimization (SMO). Like search engine optimization (SEO), SMO is a strategy for drawing new and unique visitors to a website.</string>
+    <string name="InternetofThings">The Internet of things (IoT) is a system of interrelated computing devices, mechanical and digital machines provided with unique identifiers (UIDs) and the ability to transfer data over a network without requiring human-to-human or human-to-computer interaction.</string>
+    <string name="IphoneAppDevelopment">Mobile app development is the act or process by which a mobile app is developed for mobile ... Yes using browser debug tooling, Yes browser-based, iOS simulator, Proprietary IDE, Web,ios </string>
+    <string name="onlinetraining">Online learning is education that takes place over the Internet. It is often referred to as “elearning” among other terms. However, online learning is just one type of “distance learning” -
+the umbrella term for any learning that takes place across distance and not in a traditional classroom. Distance learning has a long history and there are several types available today </string>
+    <string name="summertraining">his summer program is typically focus on that to improve your skills and make you the best in the course which you will decide to do. Great skills are really important to get a job where you will not just get good salary but also creative work and nice work culture.</string>
+    <string name="classroomtrainig">Software Classroom Training is considered as one of the most effective ways to bring out the best in the students, develop their talent and strength, build skills and confidence, and nurture learning. Apart from the efforts of teachers, students sometimes need the extra push of encouragement to help them achieve their goal. Classroom training includes a powerful technique of listening and questioning which proves to be very helpful in enhancing the skills of an individual.</string>
+    <string name="collegecampustraining">College Campus Training is the training programs provided within the college campus. It is mandatory for providing the complete training to the aspirants on latest technologies within the college campus. We provide all important modules vital for students to know before entering the corporate life where practical knowledge is given more importance than the theoretical knowledge or else it becomes difficult for one to survive there.</string>
+    <string name="industrialtraining">Industrial Experience is a working experience relevant for an individual prior to the placement and helps in increasing your personality and the behaviour. Many students have no idea about the hardware and the software design and are clueless about terminologies used in the market.</string>
+    <string name="liveprojecttraining">Live Project training gives you an advanced knowledge of the process and real-time projects adopted by the companies. It helps you gain a competitive advantage for securing the best jobs in the software industries and to get higher salaries and good luxuries. It is a program designed to develop the student’s ability to think dynamically and to widespread the logical ideas.</string>
+    <string name="minormajorprojecttraining">The Major/Minor Project training is basically provided to help students work and implement new innovative ideas and to learn the complete strategy utilized by programming organizations in various IT projects. It makes you familiar with the standard procedure of software development by providing you with both theoretical as well as the practical knowledge along with Hands-on experience which can prepare you for future interviews.</string>
+    <string name="workshopandseminor">Seminars and Workshops are the comfortable, open environment sessions organized to practice the latest professional techniques. No matter how experienced or professional you are, you can miss new ideas and trends without proper exposure to a variety of latest concepts in the field of technology. Seminars or Workshops help you develop new skills that can take you one step ahead of others. </string>
+    <string name="development">Web designing comprises of many different aspects and skills required in the production and designing of the website SDT is one stop mobile app development institute expert in creating and building both native and cross-platform mobile apps of any complexity and size. </string>
+    <string name="title_activity_view_all_fragment">FullscreenActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+
+    <string name="kotlin">
+        Making android mobile application easily and securely is a fantasy for every developer. There are so many options like Java, React, Kotlin, etc.
+
+Most of the developers use Java to Develop Android Applications. But now a day’s community of Kotlin for android app development is growing rapidly.
+
+Also, Google announced officially Kotlin used for Android App Development. Kotlin easily executable on a Java Virtual Machine (JVM), Interoperable. Kotlin is becoming the first choice for android developers because of its easy syntax. With Kotlin developers needs only to focus on the idea and the flow of screens.
+
+If you are selecting Kotlin instead of Java for your first Android Application you take the right decision.
+
+    </string>
+
+
+    <string name="machinelearning">
+
+Machine learning is an application of artificial intelligence (AI) that provides systems the ability to automatically learn and improve from experience without being explicitly programmed. Machine learning focuses on the development of computer programs that can access data and use it learn for themselves.
+
+The process of learning begins with observations or data, such as examples, direct experience, or instruction, in order to look for patterns in data and make better decisions in the future based on the examples that we provide. The primary aim is to allow the computers learn automatically without human intervention or assistance and adjust actions accordingly.
+
+But, using the classic algorithms of machine learning, text is considered as a sequence of keywords; instead, an approach based on semantic analysis mimics the human ability to understand the meaning of a text.
+
+    </string>
+
+
+    <string name="corejava">
+
+
+Java is a general purpose very powerful computer programming language. It is concurrent, class-based, and object-oriented designed to have few implementation dependencies. Java was specially designed to have a look and feel of C++ language. It is an object-oriented programming model which is simpler to use than C++.
+
+Java is basically used to create applications which can run on a single computer or can be distributed among servers and clients in a network. The developers used this programming language to create applications on your computer. Java even consists of a web plug-in which allows you to run the applications in your browser.
+
+
+    </string>
+
+
+    <string name="python">
+
+Python is a general-purpose object-oriented, interpreted, interactive, and high-level programming language. It is created by Guido van Rossum during 1985- 1990. Python is a highly readable language which uses frequently used English keywords. While other languages use punctuation with fewer syntactical constructions than other languages.
+
+Python is easy to learn, a very powerful programming language with high-level data structures. It is a simple and effective programming approach to rapid application development and scripting in multiple areas on most platforms. This top language has surpassed Java which was used to introduce U.S. students to programming and computer science.
+
+
+ </string>
+
+    <string name="digitalmarketing_shortdetails">
+
+SDT focuses on developing expertise in individuals regarding all the latest tools and technologies in the field of Digital Marketing. We all are aware of the fact that Digitalisation is the need of the hour. It helps in generating leads, creating online traffic and managing brand awareness and latest promotional strategies for both small and large-scale businesses.
+
+Our Digital Marketing Professional Program provides an overview of the digital marketing landscape to our students. The training from our well-trained experts comprises of Google AdWords, Keyword Targeting, Display Ads, Mobile Ads and more. The training gives you the introduction to many of the digital marketing concept into subsequent modules. We provide the clear understanding of how to measure and monitor the online traffic on your website. Also, keep you updated about the latest marketing campaigns.
+
+
+    </string>
+
+    <string name="c">C++ is the general purpose programming language which supports Object Oriented Concepts. Every C application can be upgraded in C++ language using these Object Oriented Concepts. Basically, C++ is the superset of the C language. C++ is widely used to write various applications like UNIX, Windows, Linux, and many more.
+
+C++ is considered as an entry point for software development World. It is for those who want to build their programming concepts very strong or already have strong concepts. Students who are looking forward to enter into system programming, this course will be very beneficial for them. The syllabus for this course is designed keeping in mind the requirements of the IT companies.
+
+</string>
+
+    <string name="iot">The internet of things, or IoT, is a system of interrelated computing devices, mechanical and digital machines, objects, animals or people that are provided with unique identifiers (UIDs) and the ability to transfer data over a network without requiring human-to-human or human-to-computer interaction.</string>
+
+    <string name="ios">Apple iOS, which is a Unix-like OS, is based on the Mac OS X operating system which is designed for laptop and desktop computers. Furthermore, the iOS developer kit comes with the tools required for iOS app development. The mobile iOS supports input in the form of various gestures such as tapping, swiping, pinching. As of November 2016, the market share of Apple iOS was around 13% worldwide, and according to IDC, it was the second most popular mobile OS after Google Android.</string>
+    <string name="Php">PHP is the first open source server-side scripting language embedded in HTML. It is used to create web pages. PHP is used by more than 20 million websites and over 1 million web servers. It is readily available and is used primarily on Linux Web servers. PHP was derived from Personal Home Page Tools and support a wide range of databases. Much popular software like Joomla, WordPress, and Drupal works on PHP. The PHP language consists of well-described command functions and a logical syntax. These are easy, efficient and user-friendly interface. Thus, making it easy to create web applications and coding databases.</string>
+</resources>

@@ -1,0 +1,114 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+
+    android:orientation="vertical">
+
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="40dp"
+        android:src="@drawable/code_icon">
+
+    </ImageView>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="20dp"
+        android:text="Welcome"
+        android:textColor="#d5d5d5"
+        android:textSize="25sp">
+
+    </TextView>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="5dp"
+        android:text="sign up to continue"
+        android:textColor="@color/colorBlack"
+        android:textSize="20sp">
+
+    </TextView>
+
+
+    <EditText
+        android:id="@+id/signup_mobilenumber"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="40dp"
+
+
+        android:hint="Enter Mobile Number"
+        android:inputType="number"
+        android:maxLength="10">
+
+    </EditText>
+
+
+    <EditText
+        android:id="@+id/signup_password"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="20dp"
+
+
+        android:hint="Enter Password"
+
+        android:inputType="textPassword">
+
+    </EditText>
+
+
+    <EditText
+        android:id="@+id/signup_emailaddress"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="20dp"
+
+
+        android:hint="Enter Email Address "
+
+        android:inputType="textEmailAddress">
+
+    </EditText>
+
+
+    <EditText
+        android:id="@+id/signup_username"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp"
+
+
+        android:layout_marginTop="20dp"
+
+        android:hint="Enter User Name ">
+
+    </EditText>
+
+
+    <Button
+        android:id="@+id/signup_button"
+        android:layout_width="150dp"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="20dp"
+        android:background="@drawable/loginbutton"
+        android:padding="10dp"
+        android:text="SUBMIT"
+        android:textColor="@color/colorWhite"
+        android:textSize="20sp">
+
+    </Button>
+
+
+</LinearLayout>
