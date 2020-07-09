@@ -16,6 +16,7 @@ import technology.digital.saksham.util.SharedPref
 
 class HomeFragmentRecyclerAdapter(val context: Context) : RecyclerView.Adapter<ViewHolder>() {
 
+
     var image = arrayOf(
         R.drawable.ic_android,
         R.drawable.ic_learning,
@@ -61,6 +62,7 @@ class HomeFragmentRecyclerAdapter(val context: Context) : RecyclerView.Adapter<V
         holder.coursename1.text = coursename[position]
         holder.courseshortDesc.setText(shortdesc[position])
         holder.courseprice.text = cost[position]
+
 
         holder.viewmore.setOnClickListener({
             if (position == 0) {
@@ -134,6 +136,8 @@ class HomeFragmentRecyclerAdapter(val context: Context) : RecyclerView.Adapter<V
 
 
     }
+
+
 }
 
 class ViewHolder(view: View) : RecyclerView.ViewHolder(view) {

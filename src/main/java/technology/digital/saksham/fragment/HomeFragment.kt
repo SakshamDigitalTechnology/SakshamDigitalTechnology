@@ -1,9 +1,12 @@
 package technology.digital.saksham.fragment
 
 import android.os.Bundle
+import android.text.Editable
+import android.text.TextWatcher
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
+import android.widget.EditText
 import android.widget.LinearLayout
 import android.widget.TextView
 import androidx.fragment.app.Fragment
@@ -11,6 +14,7 @@ import androidx.recyclerview.widget.LinearLayoutManager
 import androidx.recyclerview.widget.RecyclerView
 import technology.digital.saksham.R
 import technology.digital.saksham.adapter.HomeFragmentRecyclerAdapter
+
 
 class HomeFragment : Fragment() {
 
@@ -20,6 +24,7 @@ class HomeFragment : Fragment() {
     var linearLayout_mobile_app: LinearLayout? = null
     var linearLayout_marketing: LinearLayout? = null
     var textView: TextView? = null
+
 
     override fun onCreateView(
         inflater: LayoutInflater,
@@ -37,13 +42,33 @@ class HomeFragment : Fragment() {
         super.onViewCreated(view, savedInstanceState)
         recyclerView = view.findViewById<RecyclerView>(R.id.homefrag_recyclerview)
         textView = view.findViewById(R.id.logout_textview)
-
+        var edittext_search = view.findViewById<EditText>(R.id.search_edittext)
         recyclerView!!.setHasFixedSize(true)
         val layoutManager: RecyclerView.LayoutManager
         layoutManager = LinearLayoutManager(context, RecyclerView.VERTICAL, false)
         recyclerView!!.layoutManager = layoutManager
         var homeFragmentRecyclerAdapter = HomeFragmentRecyclerAdapter(view.context)
         recyclerView!!.adapter = homeFragmentRecyclerAdapter
+
+
+        //Search with edittext
+
+        edittext_search.addTextChangedListener(object : TextWatcher {
+            override fun afterTextChanged(s: Editable?) {
+
+
+            }
+
+            override fun beforeTextChanged(s: CharSequence?, start: Int, count: Int, after: Int) {
+            }
+
+            override fun onTextChanged(s: CharSequence?, start: Int, before: Int, count: Int) {
+
+                homeFragmentRecyclerAdapter.arrayList!!.filter { s -> true }
+
+
+            }
+        })
 
 
         // Work on Tab CLick

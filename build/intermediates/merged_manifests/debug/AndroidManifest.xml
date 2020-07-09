@@ -9,13 +9,14 @@
         android:targetSdkVersion="29" />
 
     <uses-permission android:name="android.permission.INTERNET" />
-
-    <!-- Although the *SdkVersion is captured in gradle build files, this is required for non gradle builds -->
-    <!-- <uses-sdk android:minSdkVersion="14"/> -->
     <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.READ_SMS" />
+    <uses-permission android:name="android.permission.RECEIVE_SMS" />
     <uses-permission android:name="android.permission.WAKE_LOCK" /> <!-- Required by older versions of Google Play services to create IID tokens -->
     <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE" />
     <uses-permission android:name="com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
 
     <application
         android:name="androidx.multidex.MultiDexApplication"
@@ -28,23 +29,13 @@
         android:supportsRtl="true"
         android:testOnly="true"
         android:theme="@style/AppTheme" >
-        <activity android:name="technology.digital.saksham.fragment.SyllbusFragment" />
-        <activity android:name="technology.digital.saksham.fragment.InfoFragment" />
+        <activity android:name="technology.digital.saksham.activity.PaymentActivity" >
+        </activity>
         <activity
             android:name="technology.digital.saksham.fragment.ViewAllFragment"
             android:configChanges="orientation|keyboardHidden|screenSize"
             android:label="@string/title_activity_view_all_fragment"
             android:theme="@style/FullscreenTheme" />
-        <activity android:name="technology.digital.saksham.adapter.CourseFragmentAdapter" />
-        <activity android:name="technology.digital.saksham.adapter.MarketingAdapter" />
-        <activity android:name="technology.digital.saksham.fragment.MarketingFragment" />
-        <activity android:name="technology.digital.saksham.adapter.MobileAppAdapter" />
-        <activity android:name="technology.digital.saksham.fragment.MobileAppFragment" />
-        <activity android:name="technology.digital.saksham.adapter.WebDevelopmentAdapter" />
-        <activity android:name="technology.digital.saksham.fragment.WebDevelopmentFragment" />
-        <activity android:name="technology.digital.saksham.adapter.AllTechnologyAdapter" />
-        <activity android:name="technology.digital.saksham.fragment.AllTechnologyFragment" />
-        <activity android:name="technology.digital.saksham.adapter.HomeFragmentRecyclerAdapter" />
 
         <meta-data
             android:name="com.facebook.sdk.ApplicationId"
@@ -173,6 +164,26 @@
         <meta-data
             android:name="com.google.android.gms.version"
             android:value="@integer/google_play_services_version" />
+
+        <activity
+            android:name="com.paytm.pgsdk.PaytmPGActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme" />
+
+        <service
+            android:name="com.paytm.pgsdk.IntentServicePostNotification"
+            android:exported="false" />
+        <service
+            android:name="com.paytm.pgsdk.IntentServicePreNotification"
+            android:exported="false" />
+        <service
+            android:name="com.paytm.pgsdk.easypay.utils.EasypayLoaderService"
+            android:enabled="true"
+            android:exported="true" />
+        <service
+            android:name="com.paytm.pgsdk.easypay.utils.AnalyticsService"
+            android:enabled="true"
+            android:exported="true" />
         <!--
          The initialization ContentProvider will call FacebookSdk.sdkInitialize automatically
          with the application context. This config is merged in with the host app's manifest,

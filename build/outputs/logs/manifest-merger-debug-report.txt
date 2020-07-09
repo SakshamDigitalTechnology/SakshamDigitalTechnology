@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Applications/SakshamDigitalTechnology/app/src/main/AndroidManifest.xml:2:1-67:12
-INJECTED from /Applications/SakshamDigitalTechnology/app/src/main/AndroidManifest.xml:2:1-67:12
-INJECTED from /Applications/SakshamDigitalTechnology/app/src/main/AndroidManifest.xml:2:1-67:12
-INJECTED from /Applications/SakshamDigitalTechnology/app/src/main/AndroidManifest.xml:2:1-67:12
+ADDED from /Applications/SakshamDigitalTechnology/app/src/main/AndroidManifest.xml:2:1-66:12
+INJECTED from /Applications/SakshamDigitalTechnology/app/src/main/AndroidManifest.xml:2:1-66:12
+INJECTED from /Applications/SakshamDigitalTechnology/app/src/main/AndroidManifest.xml:2:1-66:12
+INJECTED from /Applications/SakshamDigitalTechnology/app/src/main/AndroidManifest.xml:2:1-66:12
 MERGED from [androidx.multidex:multidex:2.0.0] /Users/aditya/.gradle/caches/transforms-2/files-2.1/44c5798ea078ede7ec66109fe0d79280/multidex-2.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [com.google.android.material:material:1.1.0] /Users/aditya/.gradle/caches/transforms-2/files-2.1/0e266f9539f5ba443bb35e5f3ca2b36b/material-1.1.0/AndroidManifest.xml:17:1-24:12
 MERGED from [com.facebook.android:facebook-android-sdk:5.15.3] /Users/aditya/.gradle/caches/transforms-2/files-2.1/2d93b85e4533cf7299e883a085a0bd76/jetified-facebook-android-sdk-5.15.3/AndroidManifest.xml:21:1-31:12
@@ -44,10 +44,11 @@ MERGED from [androidx.fragment:fragment:1.1.0] /Users/aditya/.gradle/caches/tran
 MERGED from [androidx.browser:browser:1.0.0] /Users/aditya/.gradle/caches/transforms-2/files-2.1/668690776848df683d009cbf87c1592e/browser-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/aditya/.gradle/caches/transforms-2/files-2.1/08e7a27c743fd5cb3998891ce1f0a914/legacy-support-core-ui-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/aditya/.gradle/caches/transforms-2/files-2.1/61e23a4f52bd290cc67d43cb42a58e96/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/aditya/.gradle/caches/transforms-2/files-2.1/364fb2d20a4b677d2a2ae2826f5944e4/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/aditya/.gradle/caches/transforms-2/files-2.1/e3edd6777cd791c837fd06026b432106/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.paytm:pgplussdk:1.4.4] /Users/aditya/.gradle/caches/transforms-2/files-2.1/ef703b3dcde944c72907ff7908568831/jetified-pgplussdk-1.4.4/AndroidManifest.xml:2:1-35:12
 MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/aditya/.gradle/caches/transforms-2/files-2.1/3bdf4a24d8264a89827ea2f3c57a6237/jetified-appcompat-resources-1.1.0/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/aditya/.gradle/caches/transforms-2/files-2.1/7dfa107da17226054e82119f592ab345/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/aditya/.gradle/caches/transforms-2/files-2.1/364fb2d20a4b677d2a2ae2826f5944e4/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/aditya/.gradle/caches/transforms-2/files-2.1/82b8f18337bfadf775336d3a0d4e248a/slidingpanelayout-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.customview:customview:1.0.0] /Users/aditya/.gradle/caches/transforms-2/files-2.1/99bea32f82cea7bacb195a5d96a5ebd8/customview-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.transition:transition:1.2.0] /Users/aditya/.gradle/caches/transforms-2/files-2.1/b500953187a331077c0ae3899a1785fd/transition-1.2.0/AndroidManifest.xml:17:1-24:12
@@ -79,20 +80,20 @@ MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/aditya/.gradle/
 MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/aditya/.gradle/caches/transforms-2/files-2.1/bb2ab36911bb4c0e9eacbf36815f2807/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/aditya/.gradle/caches/transforms-2/files-2.1/7577eb439c502b3319350877d17650c8/core-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.installreferrer:installreferrer:1.0] /Users/aditya/.gradle/caches/transforms-2/files-2.1/9834528d5e81a5973659c40feb119da7/jetified-installreferrer-1.0/AndroidManifest.xml:2:1-13:12
-INJECTED from /Applications/SakshamDigitalTechnology/app/src/main/AndroidManifest.xml:2:1-67:12
-INJECTED from /Applications/SakshamDigitalTechnology/app/src/main/AndroidManifest.xml:2:1-67:12
-INJECTED from /Applications/SakshamDigitalTechnology/app/src/main/AndroidManifest.xml:2:1-67:12
+INJECTED from /Applications/SakshamDigitalTechnology/app/src/main/AndroidManifest.xml:2:1-66:12
+INJECTED from /Applications/SakshamDigitalTechnology/app/src/main/AndroidManifest.xml:2:1-66:12
+INJECTED from /Applications/SakshamDigitalTechnology/app/src/main/AndroidManifest.xml:2:1-66:12
 	package
 		ADDED from /Applications/SakshamDigitalTechnology/app/src/main/AndroidManifest.xml:3:5-41
 		INJECTED from /Applications/SakshamDigitalTechnology/app/src/main/AndroidManifest.xml
 		INJECTED from /Applications/SakshamDigitalTechnology/app/src/main/AndroidManifest.xml
 	android:versionName
 		INJECTED from /Applications/SakshamDigitalTechnology/app/src/main/AndroidManifest.xml
-		ADDED from /Applications/SakshamDigitalTechnology/app/src/main/AndroidManifest.xml:2:1-67:12
+		ADDED from /Applications/SakshamDigitalTechnology/app/src/main/AndroidManifest.xml:2:1-66:12
 		INJECTED from /Applications/SakshamDigitalTechnology/app/src/main/AndroidManifest.xml
 	android:versionCode
 		INJECTED from /Applications/SakshamDigitalTechnology/app/src/main/AndroidManifest.xml
-		ADDED from /Applications/SakshamDigitalTechnology/app/src/main/AndroidManifest.xml:2:1-67:12
+		ADDED from /Applications/SakshamDigitalTechnology/app/src/main/AndroidManifest.xml:2:1-66:12
 		INJECTED from /Applications/SakshamDigitalTechnology/app/src/main/AndroidManifest.xml
 	xmlns:android
 		ADDED from /Applications/SakshamDigitalTechnology/app/src/main/AndroidManifest.xml:2:11-69
@@ -114,8 +115,36 @@ MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.4.3] /U
 MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.4.3] /Users/aditya/.gradle/caches/transforms-2/files-2.1/a0647983af0cee934687184e8b0044db/jetified-play-services-measurement-sdk-api-17.4.3/AndroidManifest.xml:23:5-67
 	android:name
 		ADDED from /Applications/SakshamDigitalTechnology/app/src/main/AndroidManifest.xml:5:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Applications/SakshamDigitalTechnology/app/src/main/AndroidManifest.xml:6:5-79
+MERGED from [com.google.firebase:firebase-database:19.3.1] /Users/aditya/.gradle/caches/transforms-2/files-2.1/d32677a0851b24340105b169248a4587/jetified-firebase-database-19.3.1/AndroidManifest.xml:25:5-79
+MERGED from [com.google.firebase:firebase-database:19.3.1] /Users/aditya/.gradle/caches/transforms-2/files-2.1/d32677a0851b24340105b169248a4587/jetified-firebase-database-19.3.1/AndroidManifest.xml:25:5-79
+MERGED from [com.google.android.gms:play-services-measurement-api:17.4.3] /Users/aditya/.gradle/caches/transforms-2/files-2.1/7e726495bd988070ff709b306043b244/jetified-play-services-measurement-api-17.4.3/AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-measurement-api:17.4.3] /Users/aditya/.gradle/caches/transforms-2/files-2.1/7e726495bd988070ff709b306043b244/jetified-play-services-measurement-api-17.4.3/AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-iid:20.1.5] /Users/aditya/.gradle/caches/transforms-2/files-2.1/214f01d4f0ba1d3e780f3d40cd8e657b/jetified-firebase-iid-20.1.5/AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-iid:20.1.5] /Users/aditya/.gradle/caches/transforms-2/files-2.1/214f01d4f0ba1d3e780f3d40cd8e657b/jetified-firebase-iid-20.1.5/AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-installations:16.2.1] /Users/aditya/.gradle/caches/transforms-2/files-2.1/9bde168431815c4e1d7d9d6c0f04dca8/jetified-firebase-installations-16.2.1/AndroidManifest.xml:10:5-79
+MERGED from [com.google.firebase:firebase-installations:16.2.1] /Users/aditya/.gradle/caches/transforms-2/files-2.1/9bde168431815c4e1d7d9d6c0f04dca8/jetified-firebase-installations-16.2.1/AndroidManifest.xml:10:5-79
+MERGED from [com.google.android.gms:play-services-measurement:17.4.3] /Users/aditya/.gradle/caches/transforms-2/files-2.1/4941828cb046742baa9a73eb00af56cf/jetified-play-services-measurement-17.4.3/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement:17.4.3] /Users/aditya/.gradle/caches/transforms-2/files-2.1/4941828cb046742baa9a73eb00af56cf/jetified-play-services-measurement-17.4.3/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.4.3] /Users/aditya/.gradle/caches/transforms-2/files-2.1/0b2734812b9fe56b838edbb61b4fd67b/jetified-play-services-measurement-impl-17.4.3/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.4.3] /Users/aditya/.gradle/caches/transforms-2/files-2.1/0b2734812b9fe56b838edbb61b4fd67b/jetified-play-services-measurement-impl-17.4.3/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.4.3] /Users/aditya/.gradle/caches/transforms-2/files-2.1/a0647983af0cee934687184e8b0044db/jetified-play-services-measurement-sdk-api-17.4.3/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.4.3] /Users/aditya/.gradle/caches/transforms-2/files-2.1/a0647983af0cee934687184e8b0044db/jetified-play-services-measurement-sdk-api-17.4.3/AndroidManifest.xml:24:5-79
+MERGED from [com.paytm:pgplussdk:1.4.4] /Users/aditya/.gradle/caches/transforms-2/files-2.1/ef703b3dcde944c72907ff7908568831/jetified-pgplussdk-1.4.4/AndroidManifest.xml:9:5-79
+MERGED from [com.paytm:pgplussdk:1.4.4] /Users/aditya/.gradle/caches/transforms-2/files-2.1/ef703b3dcde944c72907ff7908568831/jetified-pgplussdk-1.4.4/AndroidManifest.xml:9:5-79
+	android:name
+		ADDED from /Applications/SakshamDigitalTechnology/app/src/main/AndroidManifest.xml:6:22-76
+uses-permission#android.permission.READ_SMS
+ADDED from /Applications/SakshamDigitalTechnology/app/src/main/AndroidManifest.xml:7:5-67
+	android:name
+		ADDED from /Applications/SakshamDigitalTechnology/app/src/main/AndroidManifest.xml:7:22-64
+uses-permission#android.permission.RECEIVE_SMS
+ADDED from /Applications/SakshamDigitalTechnology/app/src/main/AndroidManifest.xml:8:5-70
+	android:name
+		ADDED from /Applications/SakshamDigitalTechnology/app/src/main/AndroidManifest.xml:8:22-67
 application
-ADDED from /Applications/SakshamDigitalTechnology/app/src/main/AndroidManifest.xml:7:5-65:19
+ADDED from /Applications/SakshamDigitalTechnology/app/src/main/AndroidManifest.xml:10:5-64:19
 MERGED from [com.google.android.material:material:1.1.0] /Users/aditya/.gradle/caches/transforms-2/files-2.1/0e266f9539f5ba443bb35e5f3ca2b36b/material-1.1.0/AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.material:material:1.1.0] /Users/aditya/.gradle/caches/transforms-2/files-2.1/0e266f9539f5ba443bb35e5f3ca2b36b/material-1.1.0/AndroidManifest.xml:22:5-20
 MERGED from [com.facebook.android:facebook-android-sdk:5.15.3] /Users/aditya/.gradle/caches/transforms-2/files-2.1/2d93b85e4533cf7299e883a085a0bd76/jetified-facebook-android-sdk-5.15.3/AndroidManifest.xml:28:5-29:19
@@ -170,6 +199,8 @@ MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] /Users/
 MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] /Users/aditya/.gradle/caches/transforms-2/files-2.1/c017d5783f0e78bd9823236f149e0388/jetified-play-services-ads-identifier-17.0.0/AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.gms:play-services-basement:17.1.1] /Users/aditya/.gradle/caches/transforms-2/files-2.1/a07096ad0151be4b670098639f97847f/jetified-play-services-basement-17.1.1/AndroidManifest.xml:22:5-26:19
 MERGED from [com.google.android.gms:play-services-basement:17.1.1] /Users/aditya/.gradle/caches/transforms-2/files-2.1/a07096ad0151be4b670098639f97847f/jetified-play-services-basement-17.1.1/AndroidManifest.xml:22:5-26:19
+MERGED from [com.paytm:pgplussdk:1.4.4] /Users/aditya/.gradle/caches/transforms-2/files-2.1/ef703b3dcde944c72907ff7908568831/jetified-pgplussdk-1.4.4/AndroidManifest.xml:13:5-33:19
+MERGED from [com.paytm:pgplussdk:1.4.4] /Users/aditya/.gradle/caches/transforms-2/files-2.1/ef703b3dcde944c72907ff7908568831/jetified-pgplussdk-1.4.4/AndroidManifest.xml:13:5-33:19
 MERGED from [com.facebook.android:facebook-places:5.15.3] /Users/aditya/.gradle/caches/transforms-2/files-2.1/beec58156ebc321e339646de0bbeff23/jetified-facebook-places-5.15.3/AndroidManifest.xml:28:5-29:19
 MERGED from [com.facebook.android:facebook-places:5.15.3] /Users/aditya/.gradle/caches/transforms-2/files-2.1/beec58156ebc321e339646de0bbeff23/jetified-facebook-places-5.15.3/AndroidManifest.xml:28:5-29:19
 MERGED from [com.facebook.android:facebook-applinks:5.15.3] /Users/aditya/.gradle/caches/transforms-2/files-2.1/5b5b76ad3d39174d594715dc99b56ff4/jetified-facebook-applinks-5.15.3/AndroidManifest.xml:28:5-29:19
@@ -187,147 +218,103 @@ MERGED from [com.android.installreferrer:installreferrer:1.0] /Users/aditya/.gra
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.1.0] /Users/aditya/.gradle/caches/transforms-2/files-2.1/4086b00615fc9c6948929bc4d34c9cf3/core-1.1.0/AndroidManifest.xml:24:18-86
 	android:supportsRtl
-		ADDED from /Applications/SakshamDigitalTechnology/app/src/main/AndroidManifest.xml:12:9-35
+		ADDED from /Applications/SakshamDigitalTechnology/app/src/main/AndroidManifest.xml:15:9-35
 	android:label
-		ADDED from /Applications/SakshamDigitalTechnology/app/src/main/AndroidManifest.xml:10:9-41
+		ADDED from /Applications/SakshamDigitalTechnology/app/src/main/AndroidManifest.xml:13:9-41
 	android:roundIcon
-		ADDED from /Applications/SakshamDigitalTechnology/app/src/main/AndroidManifest.xml:11:9-54
+		ADDED from /Applications/SakshamDigitalTechnology/app/src/main/AndroidManifest.xml:14:9-54
 	android:icon
-		ADDED from /Applications/SakshamDigitalTechnology/app/src/main/AndroidManifest.xml:9:9-43
+		ADDED from /Applications/SakshamDigitalTechnology/app/src/main/AndroidManifest.xml:12:9-43
 	android:allowBackup
-		ADDED from /Applications/SakshamDigitalTechnology/app/src/main/AndroidManifest.xml:8:9-35
+		ADDED from /Applications/SakshamDigitalTechnology/app/src/main/AndroidManifest.xml:11:9-35
 	android:theme
-		ADDED from /Applications/SakshamDigitalTechnology/app/src/main/AndroidManifest.xml:13:9-40
-activity#technology.digital.saksham.fragment.SyllbusFragment
-ADDED from /Applications/SakshamDigitalTechnology/app/src/main/AndroidManifest.xml:14:9-71
+		ADDED from /Applications/SakshamDigitalTechnology/app/src/main/AndroidManifest.xml:16:9-40
+activity#technology.digital.saksham.activity.PaymentActivity
+ADDED from /Applications/SakshamDigitalTechnology/app/src/main/AndroidManifest.xml:17:9-20:20
 	android:name
-		ADDED from /Applications/SakshamDigitalTechnology/app/src/main/AndroidManifest.xml:14:19-59
-activity#technology.digital.saksham.fragment.InfoFragment
-ADDED from /Applications/SakshamDigitalTechnology/app/src/main/AndroidManifest.xml:15:9-59
-	android:name
-		ADDED from /Applications/SakshamDigitalTechnology/app/src/main/AndroidManifest.xml:15:19-56
+		ADDED from /Applications/SakshamDigitalTechnology/app/src/main/AndroidManifest.xml:17:19-59
 activity#technology.digital.saksham.fragment.ViewAllFragment
-ADDED from /Applications/SakshamDigitalTechnology/app/src/main/AndroidManifest.xml:16:9-20:54
+ADDED from /Applications/SakshamDigitalTechnology/app/src/main/AndroidManifest.xml:22:9-26:54
 	android:label
-		ADDED from /Applications/SakshamDigitalTechnology/app/src/main/AndroidManifest.xml:19:13-69
+		ADDED from /Applications/SakshamDigitalTechnology/app/src/main/AndroidManifest.xml:25:13-69
 	android:configChanges
-		ADDED from /Applications/SakshamDigitalTechnology/app/src/main/AndroidManifest.xml:18:13-74
+		ADDED from /Applications/SakshamDigitalTechnology/app/src/main/AndroidManifest.xml:24:13-74
 	android:theme
-		ADDED from /Applications/SakshamDigitalTechnology/app/src/main/AndroidManifest.xml:20:13-51
+		ADDED from /Applications/SakshamDigitalTechnology/app/src/main/AndroidManifest.xml:26:13-51
 	android:name
-		ADDED from /Applications/SakshamDigitalTechnology/app/src/main/AndroidManifest.xml:17:13-53
-activity#technology.digital.saksham.adapter.CourseFragmentAdapter
-ADDED from /Applications/SakshamDigitalTechnology/app/src/main/AndroidManifest.xml:21:9-67
-	android:name
-		ADDED from /Applications/SakshamDigitalTechnology/app/src/main/AndroidManifest.xml:21:19-64
-activity#technology.digital.saksham.adapter.MarketingAdapter
-ADDED from /Applications/SakshamDigitalTechnology/app/src/main/AndroidManifest.xml:22:9-62
-	android:name
-		ADDED from /Applications/SakshamDigitalTechnology/app/src/main/AndroidManifest.xml:22:19-59
-activity#technology.digital.saksham.fragment.MarketingFragment
-ADDED from /Applications/SakshamDigitalTechnology/app/src/main/AndroidManifest.xml:23:9-64
-	android:name
-		ADDED from /Applications/SakshamDigitalTechnology/app/src/main/AndroidManifest.xml:23:19-61
-activity#technology.digital.saksham.adapter.MobileAppAdapter
-ADDED from /Applications/SakshamDigitalTechnology/app/src/main/AndroidManifest.xml:24:9-62
-	android:name
-		ADDED from /Applications/SakshamDigitalTechnology/app/src/main/AndroidManifest.xml:24:19-59
-activity#technology.digital.saksham.fragment.MobileAppFragment
-ADDED from /Applications/SakshamDigitalTechnology/app/src/main/AndroidManifest.xml:25:9-64
-	android:name
-		ADDED from /Applications/SakshamDigitalTechnology/app/src/main/AndroidManifest.xml:25:19-61
-activity#technology.digital.saksham.adapter.WebDevelopmentAdapter
-ADDED from /Applications/SakshamDigitalTechnology/app/src/main/AndroidManifest.xml:26:9-67
-	android:name
-		ADDED from /Applications/SakshamDigitalTechnology/app/src/main/AndroidManifest.xml:26:19-64
-activity#technology.digital.saksham.fragment.WebDevelopmentFragment
-ADDED from /Applications/SakshamDigitalTechnology/app/src/main/AndroidManifest.xml:27:9-69
-	android:name
-		ADDED from /Applications/SakshamDigitalTechnology/app/src/main/AndroidManifest.xml:27:19-66
-activity#technology.digital.saksham.adapter.AllTechnologyAdapter
-ADDED from /Applications/SakshamDigitalTechnology/app/src/main/AndroidManifest.xml:28:9-66
-	android:name
-		ADDED from /Applications/SakshamDigitalTechnology/app/src/main/AndroidManifest.xml:28:19-63
-activity#technology.digital.saksham.fragment.AllTechnologyFragment
-ADDED from /Applications/SakshamDigitalTechnology/app/src/main/AndroidManifest.xml:29:9-68
-	android:name
-		ADDED from /Applications/SakshamDigitalTechnology/app/src/main/AndroidManifest.xml:29:19-65
-activity#technology.digital.saksham.adapter.HomeFragmentRecyclerAdapter
-ADDED from /Applications/SakshamDigitalTechnology/app/src/main/AndroidManifest.xml:30:9-73
-	android:name
-		ADDED from /Applications/SakshamDigitalTechnology/app/src/main/AndroidManifest.xml:30:19-70
+		ADDED from /Applications/SakshamDigitalTechnology/app/src/main/AndroidManifest.xml:23:13-53
 meta-data#com.facebook.sdk.ApplicationId
-ADDED from /Applications/SakshamDigitalTechnology/app/src/main/AndroidManifest.xml:32:9-34:55
+ADDED from /Applications/SakshamDigitalTechnology/app/src/main/AndroidManifest.xml:29:9-31:55
 	android:value
-		ADDED from /Applications/SakshamDigitalTechnology/app/src/main/AndroidManifest.xml:34:13-52
+		ADDED from /Applications/SakshamDigitalTechnology/app/src/main/AndroidManifest.xml:31:13-52
 	android:name
-		ADDED from /Applications/SakshamDigitalTechnology/app/src/main/AndroidManifest.xml:33:13-58
+		ADDED from /Applications/SakshamDigitalTechnology/app/src/main/AndroidManifest.xml:30:13-58
 activity#com.facebook.FacebookActivity
-ADDED from /Applications/SakshamDigitalTechnology/app/src/main/AndroidManifest.xml:36:9-39:48
+ADDED from /Applications/SakshamDigitalTechnology/app/src/main/AndroidManifest.xml:33:9-36:48
 MERGED from [com.facebook.android:facebook-common:5.15.3] /Users/aditya/.gradle/caches/transforms-2/files-2.1/eaf035a3d07c23df0a85890b640f9d8b/jetified-facebook-common-5.15.3/AndroidManifest.xml:30:9-33:66
 MERGED from [com.facebook.android:facebook-common:5.15.3] /Users/aditya/.gradle/caches/transforms-2/files-2.1/eaf035a3d07c23df0a85890b640f9d8b/jetified-facebook-common-5.15.3/AndroidManifest.xml:30:9-33:66
 	android:label
-		ADDED from /Applications/SakshamDigitalTechnology/app/src/main/AndroidManifest.xml:39:13-45
+		ADDED from /Applications/SakshamDigitalTechnology/app/src/main/AndroidManifest.xml:36:13-45
 	android:configChanges
-		ADDED from /Applications/SakshamDigitalTechnology/app/src/main/AndroidManifest.xml:38:13-96
+		ADDED from /Applications/SakshamDigitalTechnology/app/src/main/AndroidManifest.xml:35:13-96
 	android:theme
 		ADDED from [com.facebook.android:facebook-common:5.15.3] /Users/aditya/.gradle/caches/transforms-2/files-2.1/eaf035a3d07c23df0a85890b640f9d8b/jetified-facebook-common-5.15.3/AndroidManifest.xml:33:13-63
 	android:name
-		ADDED from /Applications/SakshamDigitalTechnology/app/src/main/AndroidManifest.xml:37:13-57
+		ADDED from /Applications/SakshamDigitalTechnology/app/src/main/AndroidManifest.xml:34:13-57
 activity#com.facebook.CustomTabActivity
-ADDED from /Applications/SakshamDigitalTechnology/app/src/main/AndroidManifest.xml:40:9-51:20
+ADDED from /Applications/SakshamDigitalTechnology/app/src/main/AndroidManifest.xml:37:9-48:20
 MERGED from [com.facebook.android:facebook-common:5.15.3] /Users/aditya/.gradle/caches/transforms-2/files-2.1/eaf035a3d07c23df0a85890b640f9d8b/jetified-facebook-common-5.15.3/AndroidManifest.xml:35:9-49:20
 MERGED from [com.facebook.android:facebook-common:5.15.3] /Users/aditya/.gradle/caches/transforms-2/files-2.1/eaf035a3d07c23df0a85890b640f9d8b/jetified-facebook-common-5.15.3/AndroidManifest.xml:35:9-49:20
 	tools:node
 		ADDED from [com.facebook.android:facebook-common:5.15.3] /Users/aditya/.gradle/caches/transforms-2/files-2.1/eaf035a3d07c23df0a85890b640f9d8b/jetified-facebook-common-5.15.3/AndroidManifest.xml:38:13-31
 	android:exported
-		ADDED from /Applications/SakshamDigitalTechnology/app/src/main/AndroidManifest.xml:42:13-36
+		ADDED from /Applications/SakshamDigitalTechnology/app/src/main/AndroidManifest.xml:39:13-36
 	android:name
-		ADDED from /Applications/SakshamDigitalTechnology/app/src/main/AndroidManifest.xml:41:13-58
+		ADDED from /Applications/SakshamDigitalTechnology/app/src/main/AndroidManifest.xml:38:13-58
 intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:scheme:@string/fb_login_protocol_scheme
-ADDED from /Applications/SakshamDigitalTechnology/app/src/main/AndroidManifest.xml:43:13-50:29
+ADDED from /Applications/SakshamDigitalTechnology/app/src/main/AndroidManifest.xml:40:13-47:29
 action#android.intent.action.VIEW
-ADDED from /Applications/SakshamDigitalTechnology/app/src/main/AndroidManifest.xml:44:17-69
+ADDED from /Applications/SakshamDigitalTechnology/app/src/main/AndroidManifest.xml:41:17-69
 	android:name
-		ADDED from /Applications/SakshamDigitalTechnology/app/src/main/AndroidManifest.xml:44:25-66
+		ADDED from /Applications/SakshamDigitalTechnology/app/src/main/AndroidManifest.xml:41:25-66
 category#android.intent.category.DEFAULT
-ADDED from /Applications/SakshamDigitalTechnology/app/src/main/AndroidManifest.xml:46:17-76
+ADDED from /Applications/SakshamDigitalTechnology/app/src/main/AndroidManifest.xml:43:17-76
 	android:name
-		ADDED from /Applications/SakshamDigitalTechnology/app/src/main/AndroidManifest.xml:46:27-73
+		ADDED from /Applications/SakshamDigitalTechnology/app/src/main/AndroidManifest.xml:43:27-73
 category#android.intent.category.BROWSABLE
-ADDED from /Applications/SakshamDigitalTechnology/app/src/main/AndroidManifest.xml:47:17-78
+ADDED from /Applications/SakshamDigitalTechnology/app/src/main/AndroidManifest.xml:44:17-78
 	android:name
-		ADDED from /Applications/SakshamDigitalTechnology/app/src/main/AndroidManifest.xml:47:27-75
+		ADDED from /Applications/SakshamDigitalTechnology/app/src/main/AndroidManifest.xml:44:27-75
 data
-ADDED from /Applications/SakshamDigitalTechnology/app/src/main/AndroidManifest.xml:49:17-75
+ADDED from /Applications/SakshamDigitalTechnology/app/src/main/AndroidManifest.xml:46:17-75
 	android:scheme
-		ADDED from /Applications/SakshamDigitalTechnology/app/src/main/AndroidManifest.xml:49:23-72
+		ADDED from /Applications/SakshamDigitalTechnology/app/src/main/AndroidManifest.xml:46:23-72
 activity#technology.digital.saksham.activity.CourseActivity
+ADDED from /Applications/SakshamDigitalTechnology/app/src/main/AndroidManifest.xml:49:9-51:48
+	android:theme
+		ADDED from /Applications/SakshamDigitalTechnology/app/src/main/AndroidManifest.xml:51:13-45
+	android:name
+		ADDED from /Applications/SakshamDigitalTechnology/app/src/main/AndroidManifest.xml:50:13-52
+activity#technology.digital.saksham.activity.HomeActivity
 ADDED from /Applications/SakshamDigitalTechnology/app/src/main/AndroidManifest.xml:52:9-54:48
 	android:theme
 		ADDED from /Applications/SakshamDigitalTechnology/app/src/main/AndroidManifest.xml:54:13-45
 	android:name
-		ADDED from /Applications/SakshamDigitalTechnology/app/src/main/AndroidManifest.xml:53:13-52
-activity#technology.digital.saksham.activity.HomeActivity
-ADDED from /Applications/SakshamDigitalTechnology/app/src/main/AndroidManifest.xml:55:9-57:48
-	android:theme
-		ADDED from /Applications/SakshamDigitalTechnology/app/src/main/AndroidManifest.xml:57:13-45
-	android:name
-		ADDED from /Applications/SakshamDigitalTechnology/app/src/main/AndroidManifest.xml:56:13-50
+		ADDED from /Applications/SakshamDigitalTechnology/app/src/main/AndroidManifest.xml:53:13-50
 activity#technology.digital.saksham.hintActivity.SlideActivity
-ADDED from /Applications/SakshamDigitalTechnology/app/src/main/AndroidManifest.xml:58:9-64:20
+ADDED from /Applications/SakshamDigitalTechnology/app/src/main/AndroidManifest.xml:55:9-63:20
 	android:name
-		ADDED from /Applications/SakshamDigitalTechnology/app/src/main/AndroidManifest.xml:58:19-61
+		ADDED from /Applications/SakshamDigitalTechnology/app/src/main/AndroidManifest.xml:55:19-61
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from /Applications/SakshamDigitalTechnology/app/src/main/AndroidManifest.xml:59:13-63:29
+ADDED from /Applications/SakshamDigitalTechnology/app/src/main/AndroidManifest.xml:57:13-61:29
 action#android.intent.action.MAIN
-ADDED from /Applications/SakshamDigitalTechnology/app/src/main/AndroidManifest.xml:60:17-69
+ADDED from /Applications/SakshamDigitalTechnology/app/src/main/AndroidManifest.xml:58:17-69
 	android:name
-		ADDED from /Applications/SakshamDigitalTechnology/app/src/main/AndroidManifest.xml:60:25-66
+		ADDED from /Applications/SakshamDigitalTechnology/app/src/main/AndroidManifest.xml:58:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /Applications/SakshamDigitalTechnology/app/src/main/AndroidManifest.xml:62:17-77
+ADDED from /Applications/SakshamDigitalTechnology/app/src/main/AndroidManifest.xml:60:17-77
 	android:name
-		ADDED from /Applications/SakshamDigitalTechnology/app/src/main/AndroidManifest.xml:62:27-74
+		ADDED from /Applications/SakshamDigitalTechnology/app/src/main/AndroidManifest.xml:60:27-74
 uses-sdk
 INJECTED from /Applications/SakshamDigitalTechnology/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /Applications/SakshamDigitalTechnology/app/src/main/AndroidManifest.xml
@@ -412,14 +399,16 @@ MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/aditya/.gradle
 MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/aditya/.gradle/caches/transforms-2/files-2.1/08e7a27c743fd5cb3998891ce1f0a914/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/aditya/.gradle/caches/transforms-2/files-2.1/61e23a4f52bd290cc67d43cb42a58e96/viewpager-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/aditya/.gradle/caches/transforms-2/files-2.1/61e23a4f52bd290cc67d43cb42a58e96/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/aditya/.gradle/caches/transforms-2/files-2.1/364fb2d20a4b677d2a2ae2826f5944e4/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/aditya/.gradle/caches/transforms-2/files-2.1/364fb2d20a4b677d2a2ae2826f5944e4/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/aditya/.gradle/caches/transforms-2/files-2.1/e3edd6777cd791c837fd06026b432106/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/aditya/.gradle/caches/transforms-2/files-2.1/e3edd6777cd791c837fd06026b432106/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.paytm:pgplussdk:1.4.4] /Users/aditya/.gradle/caches/transforms-2/files-2.1/ef703b3dcde944c72907ff7908568831/jetified-pgplussdk-1.4.4/AndroidManifest.xml:7:5-44
+MERGED from [com.paytm:pgplussdk:1.4.4] /Users/aditya/.gradle/caches/transforms-2/files-2.1/ef703b3dcde944c72907ff7908568831/jetified-pgplussdk-1.4.4/AndroidManifest.xml:7:5-44
 MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/aditya/.gradle/caches/transforms-2/files-2.1/3bdf4a24d8264a89827ea2f3c57a6237/jetified-appcompat-resources-1.1.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/aditya/.gradle/caches/transforms-2/files-2.1/3bdf4a24d8264a89827ea2f3c57a6237/jetified-appcompat-resources-1.1.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/aditya/.gradle/caches/transforms-2/files-2.1/7dfa107da17226054e82119f592ab345/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/aditya/.gradle/caches/transforms-2/files-2.1/7dfa107da17226054e82119f592ab345/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/aditya/.gradle/caches/transforms-2/files-2.1/364fb2d20a4b677d2a2ae2826f5944e4/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/aditya/.gradle/caches/transforms-2/files-2.1/364fb2d20a4b677d2a2ae2826f5944e4/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/aditya/.gradle/caches/transforms-2/files-2.1/82b8f18337bfadf775336d3a0d4e248a/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/aditya/.gradle/caches/transforms-2/files-2.1/82b8f18337bfadf775336d3a0d4e248a/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.customview:customview:1.0.0] /Users/aditya/.gradle/caches/transforms-2/files-2.1/99bea32f82cea7bacb195a5d96a5ebd8/customview-1.0.0/AndroidManifest.xml:20:5-44
@@ -500,22 +489,6 @@ intent-filter#action:name:android.intent.action.VIEW+category:name:android.inten
 ADDED from [com.facebook.android:facebook-common:5.15.3] /Users/aditya/.gradle/caches/transforms-2/files-2.1/eaf035a3d07c23df0a85890b640f9d8b/jetified-facebook-common-5.15.3/AndroidManifest.xml:39:13-48:29
 intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:cct.technology.digital.saksham+data:scheme:fbconnect
 ADDED from [com.facebook.android:facebook-common:5.15.3] /Users/aditya/.gradle/caches/transforms-2/files-2.1/eaf035a3d07c23df0a85890b640f9d8b/jetified-facebook-common-5.15.3/AndroidManifest.xml:39:13-48:29
-uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from [com.google.firebase:firebase-database:19.3.1] /Users/aditya/.gradle/caches/transforms-2/files-2.1/d32677a0851b24340105b169248a4587/jetified-firebase-database-19.3.1/AndroidManifest.xml:25:5-79
-MERGED from [com.google.android.gms:play-services-measurement-api:17.4.3] /Users/aditya/.gradle/caches/transforms-2/files-2.1/7e726495bd988070ff709b306043b244/jetified-play-services-measurement-api-17.4.3/AndroidManifest.xml:23:5-79
-MERGED from [com.google.android.gms:play-services-measurement-api:17.4.3] /Users/aditya/.gradle/caches/transforms-2/files-2.1/7e726495bd988070ff709b306043b244/jetified-play-services-measurement-api-17.4.3/AndroidManifest.xml:23:5-79
-MERGED from [com.google.firebase:firebase-iid:20.1.5] /Users/aditya/.gradle/caches/transforms-2/files-2.1/214f01d4f0ba1d3e780f3d40cd8e657b/jetified-firebase-iid-20.1.5/AndroidManifest.xml:22:5-79
-MERGED from [com.google.firebase:firebase-iid:20.1.5] /Users/aditya/.gradle/caches/transforms-2/files-2.1/214f01d4f0ba1d3e780f3d40cd8e657b/jetified-firebase-iid-20.1.5/AndroidManifest.xml:22:5-79
-MERGED from [com.google.firebase:firebase-installations:16.2.1] /Users/aditya/.gradle/caches/transforms-2/files-2.1/9bde168431815c4e1d7d9d6c0f04dca8/jetified-firebase-installations-16.2.1/AndroidManifest.xml:10:5-79
-MERGED from [com.google.firebase:firebase-installations:16.2.1] /Users/aditya/.gradle/caches/transforms-2/files-2.1/9bde168431815c4e1d7d9d6c0f04dca8/jetified-firebase-installations-16.2.1/AndroidManifest.xml:10:5-79
-MERGED from [com.google.android.gms:play-services-measurement:17.4.3] /Users/aditya/.gradle/caches/transforms-2/files-2.1/4941828cb046742baa9a73eb00af56cf/jetified-play-services-measurement-17.4.3/AndroidManifest.xml:24:5-79
-MERGED from [com.google.android.gms:play-services-measurement:17.4.3] /Users/aditya/.gradle/caches/transforms-2/files-2.1/4941828cb046742baa9a73eb00af56cf/jetified-play-services-measurement-17.4.3/AndroidManifest.xml:24:5-79
-MERGED from [com.google.android.gms:play-services-measurement-impl:17.4.3] /Users/aditya/.gradle/caches/transforms-2/files-2.1/0b2734812b9fe56b838edbb61b4fd67b/jetified-play-services-measurement-impl-17.4.3/AndroidManifest.xml:24:5-79
-MERGED from [com.google.android.gms:play-services-measurement-impl:17.4.3] /Users/aditya/.gradle/caches/transforms-2/files-2.1/0b2734812b9fe56b838edbb61b4fd67b/jetified-play-services-measurement-impl-17.4.3/AndroidManifest.xml:24:5-79
-MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.4.3] /Users/aditya/.gradle/caches/transforms-2/files-2.1/a0647983af0cee934687184e8b0044db/jetified-play-services-measurement-sdk-api-17.4.3/AndroidManifest.xml:24:5-79
-MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.4.3] /Users/aditya/.gradle/caches/transforms-2/files-2.1/a0647983af0cee934687184e8b0044db/jetified-play-services-measurement-sdk-api-17.4.3/AndroidManifest.xml:24:5-79
-	android:name
-		ADDED from [com.google.firebase:firebase-database:19.3.1] /Users/aditya/.gradle/caches/transforms-2/files-2.1/d32677a0851b24340105b169248a4587/jetified-firebase-database-19.3.1/AndroidManifest.xml:25:22-76
 service#com.google.firebase.components.ComponentDiscoveryService
 ADDED from [com.google.firebase:firebase-database:19.3.1] /Users/aditya/.gradle/caches/transforms-2/files-2.1/d32677a0851b24340105b169248a4587/jetified-firebase-database-19.3.1/AndroidManifest.xml:29:9-35:19
 MERGED from [com.google.firebase:firebase-auth:19.3.1] /Users/aditya/.gradle/caches/transforms-2/files-2.1/210e15aaa15326adaa619c4734ab65a6/jetified-firebase-auth-19.3.1/AndroidManifest.xml:33:9-39:19
@@ -688,6 +661,50 @@ ADDED from [com.google.android.gms:play-services-basement:17.1.1] /Users/aditya/
 		ADDED from [com.google.android.gms:play-services-basement:17.1.1] /Users/aditya/.gradle/caches/transforms-2/files-2.1/a07096ad0151be4b670098639f97847f/jetified-play-services-basement-17.1.1/AndroidManifest.xml:25:13-66
 	android:name
 		ADDED from [com.google.android.gms:play-services-basement:17.1.1] /Users/aditya/.gradle/caches/transforms-2/files-2.1/a07096ad0151be4b670098639f97847f/jetified-play-services-basement-17.1.1/AndroidManifest.xml:24:13-58
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from [com.paytm:pgplussdk:1.4.4] /Users/aditya/.gradle/caches/transforms-2/files-2.1/ef703b3dcde944c72907ff7908568831/jetified-pgplussdk-1.4.4/AndroidManifest.xml:10:5-81
+	android:name
+		ADDED from [com.paytm:pgplussdk:1.4.4] /Users/aditya/.gradle/caches/transforms-2/files-2.1/ef703b3dcde944c72907ff7908568831/jetified-pgplussdk-1.4.4/AndroidManifest.xml:10:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from [com.paytm:pgplussdk:1.4.4] /Users/aditya/.gradle/caches/transforms-2/files-2.1/ef703b3dcde944c72907ff7908568831/jetified-pgplussdk-1.4.4/AndroidManifest.xml:11:5-80
+	android:name
+		ADDED from [com.paytm:pgplussdk:1.4.4] /Users/aditya/.gradle/caches/transforms-2/files-2.1/ef703b3dcde944c72907ff7908568831/jetified-pgplussdk-1.4.4/AndroidManifest.xml:11:22-77
+activity#com.paytm.pgsdk.PaytmPGActivity
+ADDED from [com.paytm:pgplussdk:1.4.4] /Users/aditya/.gradle/caches/transforms-2/files-2.1/ef703b3dcde944c72907ff7908568831/jetified-pgplussdk-1.4.4/AndroidManifest.xml:14:9-17:47
+	android:screenOrientation
+		ADDED from [com.paytm:pgplussdk:1.4.4] /Users/aditya/.gradle/caches/transforms-2/files-2.1/ef703b3dcde944c72907ff7908568831/jetified-pgplussdk-1.4.4/AndroidManifest.xml:16:13-49
+	android:theme
+		ADDED from [com.paytm:pgplussdk:1.4.4] /Users/aditya/.gradle/caches/transforms-2/files-2.1/ef703b3dcde944c72907ff7908568831/jetified-pgplussdk-1.4.4/AndroidManifest.xml:17:13-44
+	android:name
+		ADDED from [com.paytm:pgplussdk:1.4.4] /Users/aditya/.gradle/caches/transforms-2/files-2.1/ef703b3dcde944c72907ff7908568831/jetified-pgplussdk-1.4.4/AndroidManifest.xml:15:13-59
+service#com.paytm.pgsdk.IntentServicePostNotification
+ADDED from [com.paytm:pgplussdk:1.4.4] /Users/aditya/.gradle/caches/transforms-2/files-2.1/ef703b3dcde944c72907ff7908568831/jetified-pgplussdk-1.4.4/AndroidManifest.xml:19:9-21:40
+	android:exported
+		ADDED from [com.paytm:pgplussdk:1.4.4] /Users/aditya/.gradle/caches/transforms-2/files-2.1/ef703b3dcde944c72907ff7908568831/jetified-pgplussdk-1.4.4/AndroidManifest.xml:21:13-37
+	android:name
+		ADDED from [com.paytm:pgplussdk:1.4.4] /Users/aditya/.gradle/caches/transforms-2/files-2.1/ef703b3dcde944c72907ff7908568831/jetified-pgplussdk-1.4.4/AndroidManifest.xml:20:13-73
+service#com.paytm.pgsdk.IntentServicePreNotification
+ADDED from [com.paytm:pgplussdk:1.4.4] /Users/aditya/.gradle/caches/transforms-2/files-2.1/ef703b3dcde944c72907ff7908568831/jetified-pgplussdk-1.4.4/AndroidManifest.xml:22:9-24:40
+	android:exported
+		ADDED from [com.paytm:pgplussdk:1.4.4] /Users/aditya/.gradle/caches/transforms-2/files-2.1/ef703b3dcde944c72907ff7908568831/jetified-pgplussdk-1.4.4/AndroidManifest.xml:24:13-37
+	android:name
+		ADDED from [com.paytm:pgplussdk:1.4.4] /Users/aditya/.gradle/caches/transforms-2/files-2.1/ef703b3dcde944c72907ff7908568831/jetified-pgplussdk-1.4.4/AndroidManifest.xml:23:13-72
+service#com.paytm.pgsdk.easypay.utils.EasypayLoaderService
+ADDED from [com.paytm:pgplussdk:1.4.4] /Users/aditya/.gradle/caches/transforms-2/files-2.1/ef703b3dcde944c72907ff7908568831/jetified-pgplussdk-1.4.4/AndroidManifest.xml:25:9-28:39
+	android:enabled
+		ADDED from [com.paytm:pgplussdk:1.4.4] /Users/aditya/.gradle/caches/transforms-2/files-2.1/ef703b3dcde944c72907ff7908568831/jetified-pgplussdk-1.4.4/AndroidManifest.xml:27:13-35
+	android:exported
+		ADDED from [com.paytm:pgplussdk:1.4.4] /Users/aditya/.gradle/caches/transforms-2/files-2.1/ef703b3dcde944c72907ff7908568831/jetified-pgplussdk-1.4.4/AndroidManifest.xml:28:13-36
+	android:name
+		ADDED from [com.paytm:pgplussdk:1.4.4] /Users/aditya/.gradle/caches/transforms-2/files-2.1/ef703b3dcde944c72907ff7908568831/jetified-pgplussdk-1.4.4/AndroidManifest.xml:26:13-78
+service#com.paytm.pgsdk.easypay.utils.AnalyticsService
+ADDED from [com.paytm:pgplussdk:1.4.4] /Users/aditya/.gradle/caches/transforms-2/files-2.1/ef703b3dcde944c72907ff7908568831/jetified-pgplussdk-1.4.4/AndroidManifest.xml:29:9-32:39
+	android:enabled
+		ADDED from [com.paytm:pgplussdk:1.4.4] /Users/aditya/.gradle/caches/transforms-2/files-2.1/ef703b3dcde944c72907ff7908568831/jetified-pgplussdk-1.4.4/AndroidManifest.xml:31:13-35
+	android:exported
+		ADDED from [com.paytm:pgplussdk:1.4.4] /Users/aditya/.gradle/caches/transforms-2/files-2.1/ef703b3dcde944c72907ff7908568831/jetified-pgplussdk-1.4.4/AndroidManifest.xml:32:13-36
+	android:name
+		ADDED from [com.paytm:pgplussdk:1.4.4] /Users/aditya/.gradle/caches/transforms-2/files-2.1/ef703b3dcde944c72907ff7908568831/jetified-pgplussdk-1.4.4/AndroidManifest.xml:30:13-74
 provider#com.facebook.internal.FacebookInitProvider
 ADDED from [com.facebook.android:facebook-core:5.15.3] /Users/aditya/.gradle/caches/transforms-2/files-2.1/74d8d1341c5120d769185c3b6da0b957/jetified-facebook-core-5.15.3/AndroidManifest.xml:39:9-42:40
 	android:authorities

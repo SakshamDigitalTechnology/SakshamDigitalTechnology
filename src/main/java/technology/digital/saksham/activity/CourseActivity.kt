@@ -13,9 +13,9 @@ import com.google.android.gms.auth.api.signin.GoogleSignInOptions
 import com.google.android.material.tabs.TabLayout
 import technology.digital.saksham.R
 import technology.digital.saksham.fragment.AllTechnologyFragment
+import technology.digital.saksham.fragment.ContactUsFragment
 import technology.digital.saksham.fragment.HomeFragment
 import technology.digital.saksham.fragment.MoreFragment
-import technology.digital.saksham.fragment.ProfileFragment
 import technology.digital.saksham.util.AppUtil
 import technology.digital.saksham.util.SharedPref
 
@@ -65,7 +65,7 @@ class CourseActivity : AppCompatActivity() {
                     2 ->
                         supportFragmentManager
                             .beginTransaction()
-                            .replace(R.id.root_layout, ProfileFragment(), "Profile")
+                            .replace(R.id.root_layout, ContactUsFragment(), "contactus")
                             .commit()
 
                     3 ->
@@ -100,7 +100,7 @@ class CourseActivity : AppCompatActivity() {
                     2 ->
                         supportFragmentManager
                             .beginTransaction()
-                            .replace(R.id.root_layout, ProfileFragment(), "Profile")
+                            .replace(R.id.root_layout, ContactUsFragment(), "contactus")
                             .commit()
 
                     3 ->

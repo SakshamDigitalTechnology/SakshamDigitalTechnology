@@ -4,10 +4,10 @@ import android.content.Context
 import androidx.fragment.app.Fragment
 import androidx.fragment.app.FragmentManager
 import androidx.fragment.app.FragmentPagerAdapter
+import technology.digital.saksham.fragment.ContactUsFragment
 import technology.digital.saksham.fragment.CourseFragment
 import technology.digital.saksham.fragment.HomeFragment
 import technology.digital.saksham.fragment.MoreFragment
-import technology.digital.saksham.fragment.ProfileFragment
 
 class HomePageAdapter(private val mContext: Context, fm: FragmentManager) :
     FragmentPagerAdapter(fm) {
@@ -18,7 +18,7 @@ class HomePageAdapter(private val mContext: Context, fm: FragmentManager) :
             1 ->
                 return CourseFragment()
             2 ->
-                return ProfileFragment()
+                return ContactUsFragment()
             3 -> return MoreFragment()
         }
         return HomeFragment()

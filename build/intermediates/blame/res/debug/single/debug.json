@@ -28,6 +28,10 @@
         "source": "/Applications/SakshamDigitalTechnology/app/src/main/res/drawable-v24/kotlin.png"
     },
     {
+        "merged": "/Applications/SakshamDigitalTechnology/app/build/intermediates/res/merged/debug/layout_customtoolbar.xml.flat",
+        "source": "/Applications/SakshamDigitalTechnology/app/src/main/res/layout/customtoolbar.xml"
+    },
+    {
         "merged": "/Applications/SakshamDigitalTechnology/app/build/intermediates/res/merged/debug/drawable_viewpager_tab_selector.xml.flat",
         "source": "/Applications/SakshamDigitalTechnology/app/src/main/res/drawable/viewpager_tab_selector.xml"
     },
@@ -72,12 +76,12 @@
         "source": "/Applications/SakshamDigitalTechnology/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_facebook.xml"
     },
     {
-        "merged": "/Applications/SakshamDigitalTechnology/app/build/intermediates/res/merged/debug/layout_expandable_child.xml.flat",
-        "source": "/Applications/SakshamDigitalTechnology/app/src/main/res/layout/expandable_child.xml"
-    },
-    {
         "merged": "/Applications/SakshamDigitalTechnology/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_iphone.png.flat",
         "source": "/Applications/SakshamDigitalTechnology/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_iphone.png"
+    },
+    {
+        "merged": "/Applications/SakshamDigitalTechnology/app/build/intermediates/res/merged/debug/layout_expandable_child.xml.flat",
+        "source": "/Applications/SakshamDigitalTechnology/app/src/main/res/layout/expandable_child.xml"
     },
     {
         "merged": "/Applications/SakshamDigitalTechnology/app/build/intermediates/res/merged/debug/layout_activity_web_development_fragment.xml.flat",
@@ -520,6 +524,10 @@
         "source": "/Applications/SakshamDigitalTechnology/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
     },
     {
+        "merged": "/Applications/SakshamDigitalTechnology/app/build/intermediates/res/merged/debug/layout_test.xml.flat",
+        "source": "/Applications/SakshamDigitalTechnology/app/src/main/res/layout/test.xml"
+    },
+    {
         "merged": "/Applications/SakshamDigitalTechnology/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_apple.png.flat",
         "source": "/Applications/SakshamDigitalTechnology/app/build/generated/res/pngs/debug/drawable-mdpi/ic_apple.png"
     },
@@ -568,6 +576,10 @@
         "source": "/Applications/SakshamDigitalTechnology/app/build/generated/res/pngs/debug/drawable-hdpi/ic_php.png"
     },
     {
+        "merged": "/Applications/SakshamDigitalTechnology/app/build/intermediates/res/merged/debug/layout_activity_payment.xml.flat",
+        "source": "/Applications/SakshamDigitalTechnology/app/src/main/res/layout/activity_payment.xml"
+    },
+    {
         "merged": "/Applications/SakshamDigitalTechnology/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_seosmm.png.flat",
         "source": "/Applications/SakshamDigitalTechnology/app/build/generated/res/pngs/debug/drawable-hdpi/ic_seosmm.png"
     },
@@ -606,10 +618,6 @@
     {
         "merged": "/Applications/SakshamDigitalTechnology/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_back.png.flat",
         "source": "/Applications/SakshamDigitalTechnology/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_back.png"
-    },
-    {
-        "merged": "/Applications/SakshamDigitalTechnology/app/build/intermediates/res/merged/debug/layout_activity_profile_fragment.xml.flat",
-        "source": "/Applications/SakshamDigitalTechnology/app/src/main/res/layout/activity_profile_fragment.xml"
     },
     {
         "merged": "/Applications/SakshamDigitalTechnology/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_user.png.flat",
@@ -718,6 +726,10 @@
     {
         "merged": "/Applications/SakshamDigitalTechnology/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_html_css_javascript.png.flat",
         "source": "/Applications/SakshamDigitalTechnology/app/build/generated/res/pngs/debug/drawable-hdpi/ic_html_css_javascript.png"
+    },
+    {
+        "merged": "/Applications/SakshamDigitalTechnology/app/build/intermediates/res/merged/debug/layout_contactusfragment.xml.flat",
+        "source": "/Applications/SakshamDigitalTechnology/app/src/main/res/layout/contactusfragment.xml"
     },
     {
         "merged": "/Applications/SakshamDigitalTechnology/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_google.png.flat",
